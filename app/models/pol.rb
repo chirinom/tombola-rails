@@ -1,0 +1,2 @@
+class Pol < ApplicationRecord
+end
